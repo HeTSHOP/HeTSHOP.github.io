@@ -2261,7 +2261,7 @@ a {
 }
 .cid-ufQQEWWOEL .social-row .soc-item a:hover .mbr-iconfont,
 .cid-ufQQEWWOEL .social-row .soc-item a:focus .mbr-iconfont {
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-ufQQEWWOEL .social-row .soc-item a .mbr-iconfont {
   width: 72px;
@@ -2271,7 +2271,7 @@ a {
   justify-content: center;
   border-radius: 100%;
   font-size: 32px;
-  background-color: #edefeb;
+  background-color: #232323;
   color: #e0ae77;
   transition: all 0.3s ease-in-out;
 }
